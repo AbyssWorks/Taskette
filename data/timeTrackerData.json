@@ -1,0 +1,11 @@
+{
+    "colourTheme": "Dark",
+    "startScrollAtSetTime": 540,
+    "minuteGap": 10,
+    "startScrollAtCurrentTime": false,
+    "timeZone": "computerDefault",
+    "language": "computerDefault",
+    "userName": "User",
+    "autoSave": false,
+    "worklogs": []
+}

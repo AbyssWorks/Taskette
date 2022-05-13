@@ -1,0 +1,5 @@
+create MISC-1 "chasing racoon" 21:40 :: 22:00 17/01/22
+move 21:40 17/01/22 > 23:00 17/01/22
+duration 23:00 17/01/22 :: 23:30
+duplicate 23:00 17/01/22 > 06:00 18/01/22
+edit 06:00 18/01/22 > CLEAN-1 "Take rubbish to curbside"
